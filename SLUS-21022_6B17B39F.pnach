@@ -2,8 +2,8 @@ gametitle=Prince of Persia: Warrior Within [SLUS-21022] [6B17B39F]
 //HUD Fix
 author=Simulatte
 description=HUD health arc black gap fix (use fixed textures) + hide pre-HP-upgrade parts of the extra HP bar showing in the HUD
-patch=1,EE,005076E4,word,3C01BE00
-patch=1,EE,005076F0,word,44811800
+patch=1,EE,005076E4,word,00000000
+patch=1,EE,005076F0,word,44801800
 patch=1,EE,0050771C,word,4603A034
 patch=1,EE,00507700,word,08040DC2
 patch=1,EE,00103708,word,82620044
